@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intento Criminal</string>
+    <string name="hello_blank_fragment">Witam pusty fragment</string>
+    <string name="crime_title_hint">Wprowadź tytuł przestępstwa.</string>
+    <string name="crime_title_label">Tytuł przestępstwa</string>
+    <string name="crime_details_label">Szczegóły przestępstwa</string>
+    <string name="crime_solved_label">Rozwiązany</string>
+
+    <string name="crime_solved_message">Przestępstwo oznaczone jako rozwiązane!</string>
+    <string name="crime_unsolved_message">Przestępstwo oznaczone jako nierozwiązane!</string>
+    <string name="ok">OK</string>
+    <string name="save_crime">Zapisz przestępstwo</string>
+    <string name="crime_saved_message">Przestępstwo zapisane!</string>
+    <string name="empty_title_message">Proszę wprowadzić tytuł przestępstwa!</string>
+
+    <string name="new_crime">Kryminał Nowy</string>
+    <string name="crime_suspect_text">Wybierz Podejrzanego</string>
+    <string name="crime_report_text">Prześlij raport o przestępstwie</string>
+    <string name="crime_report">%1$s! Przestępstwo zostało odkryte %2$s, %3$s i %4$s</string>
+    <string name="crime_report_solved">Sprawa została rozwiązana</string>
+    <string name="crime_report_unsolved">Sprawa nie jest rozwiązana</string>
+    <string name="crime_report_no_suspect">nie ma podejrzanego.</string>
+    <string name="crime_report_suspect">podejrzany to %s.</string>
+
+    <string name="crime_report_subject">Raport Przestępstwa</string>
+    <string name="send_report">Wyślij raport</string>
+
+    <string name="crime_date">Data przestępstwa</string>
+    <string name="date_snackbar_message">Data przestępstwa: %s</string>
+
+    <string name="choose_date_title">Wybierz datę przestępstwa</string>
+    <string name="cancel">Anuluj</string>
+
+</resources>
